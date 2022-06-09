@@ -1,0 +1,48 @@
+/* Font Import */
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap');
+
+
+/* Common Start */
+body {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #989ca0;
+}
+
+/* Common End */
+
+/* Header Start */
+header {
+    background: #fcdb00;
+    padding: 10px 0;
+}
+
+.c_nav {}
+
+.logo {}
+
+.menu {}
+
+.menu ul li a {
+    font-size: 22px;
+    font-weight: 700;
+    color: #010101 !important;
+    text-transform: capitalize;
+    padding: 0 30px !important;
+}
+.menu ul li a:last-child {
+    padding-right: 0;
+}
+
+.menu ul li a:hover {
+    color: #FFFFFF !important;
+}
+
+/* Header End */
+
+/* Slider Start */
+.slider{
+    background: #fcdb00;
+}
+/* Slider End */

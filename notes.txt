@@ -1,0 +1,57 @@
+Project Name: E-School
+
+Font-Family: 
+    PTSans
+        400
+        700
+
+    HelveticaNeue
+        700
+
+Color:
+#221e01
+#555555
+#989ca0
+#010101
+#313841
+#fcdb00
+
+
+
+
+
+Header--------------
+
+        xxl/xl/lg    -       md           -          sm
+menu
+
+slider--------------
+
+  xxl/xl/lg    -       md           -          sm
+
+
+Media Query
+                xxl-1440
+                xl-1200
+                lg-1024
+
+                md-768
+
+                sm-576
+                col-320
+
+Padding-------------
+Header
+xxl/xl/lg  -    md     -     sm/col
+
+
+
+Layout
+Section 
+Semantic Markup 
+Reusable Code 
+Code Repeatation Avoid 
+
+
+
+boxy icon, ico font
