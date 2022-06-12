@@ -97,11 +97,11 @@
     }
     /* Footer */
     footer{
-        padding-bottom: 70px;
+        padding-bottom: 50px;
     }
     .f_1, .f_2 {
         text-align: center;
-        margin-bottom: 40px;
+        margin-top: 40px;
     }
 }
 
@@ -193,7 +193,7 @@
     }
     /* Footer */
     footer{
-        padding-bottom: 70px;
+        padding-bottom: 50px;
     }
     .f_1, .f_2 {
         text-align: center;
