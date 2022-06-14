@@ -58,7 +58,7 @@
     /* Feature */
     .c_padding {
         padding-top: 50px;
-        padding-bottom: 70px;
+        padding-bottom: 30px;
     }
     .c_h1 {
         margin-bottom: 10px;
@@ -99,9 +99,13 @@
     footer{
         padding-bottom: 50px;
     }
-    .f_1, .f_2 {
+    .f_1{
         text-align: center;
-        margin-top: 40px;
+        margin-top: 0;
+    }
+    .f_2 {
+        text-align: center;
+        margin-top: 20px;
     }
 }
 
